@@ -84,6 +84,7 @@ options:
   substitutionOption: ALLOW_LOOSE
   logging: CLOUD_LOGGING_ONLY
 substitutions:
+  # _DEPLOY_REGION: europe-west8
   _DEPLOY_REGION: europe-west8
   _AR_HOSTNAME: europe-west8-docker.pkg.dev
   _PLATFORM: managed
@@ -95,4 +96,4 @@ substitutions:
 tags:
   - gcp-cloud-build-deploy-cloud-run
   - php-amarcord
-  - ricc-ne-sa-a-tronchi
+  - ricc-ne-sa-a-tronchi-okkkkk
