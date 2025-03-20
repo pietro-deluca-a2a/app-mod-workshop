@@ -90,8 +90,8 @@ substitutions:
   _SERVICE_NAME: php-amarcord
   _EXECUTION_ENVIRONMENT: 'rgc/cloudbuild'
   #_GITHUB_USER: Friends-of-Ricc # change your your own, eg 'gregorio'
-  _GITHUB_USER: palladius # change your your own, eg 'gregorio'
-  _DEVFEST_CITY: pescara
+  _GITHUB_USER: pietro-deluca-a2a # change your your own, eg 'gregorio'
+  _DEVFEST_CITY: torino
 tags:
   - gcp-cloud-build-deploy-cloud-run
   - php-amarcord
